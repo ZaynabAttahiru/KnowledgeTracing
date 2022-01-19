@@ -12,4 +12,4 @@ Project Plan
 - Contrast the performance between the traditional and federated environment
 - Write up results and provide insight.
 
-Unfortunately, the goals of the above project were not met. Current implementation only approximated some of the aspects the author wanted to showcase when drafting out the project plan above.
+Unfortunately, the above workplan had to be revised due to inability to implement the federated learning component. Current implementation only approximated some of the aspects the author wanted to showcase when drafting out the project plan above.
